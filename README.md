@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, world! 🌏
+
+- 🎓 I'm an undergraduate majoring in [Computer Science and Technology (CST)](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/).
+- 🔭 I love using computer science and data science to understand the world.
+- 🌱 I'm also learning *a little* economics, which helps me understand the world better.
+
+[My Course Projects]()
 
 <!--
 **Co1lin/Co1lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
