@@ -1,5 +1,7 @@
 ### Hello, world! 🌏
 
+Hi, I'm Colin. 👋
+
 - 🎓 I'm an undergraduate majoring in [Computer Science and Technology (CST)](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/).
 - 🔭 I love using computer science and data science to understand the world.
 - 🌱 I'm also learning *a little* economics, which helps me understand the world better.
