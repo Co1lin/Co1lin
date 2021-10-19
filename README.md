@@ -4,7 +4,7 @@
 - 🔭 I love using computer science and data science to understand the world.
 - 🌱 I'm also learning *a little* economics, which helps me understand the world better.
 
-[My Course Projects]()
+[My Course Projects](https://github.com/Co1lin/Co1lin/blob/main/Course%20Projects.md)
 
 <!--
 **Co1lin/Co1lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

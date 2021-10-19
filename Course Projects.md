@@ -1,6 +1,6 @@
 # Course Projects
 
-Here are part of my course projects.
+Here is part of my course projects.
 
 ## Undergraduate at THU
 
