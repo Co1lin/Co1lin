@@ -7,7 +7,7 @@ Hi, I'm Colin. 👋
 - 🌱 I'm also learning *a little* economics, which helps me understand the world, especially the social issues, better.
 - 👨‍💻 I'm currently working on research projects in the field of Deep Learning.
 
-[My Course Projects](https://github.com/Co1lin/Co1lin/blob/main/Course%20Projects.md)
+Compared with final exams, I prefer doing [Course Projects](https://github.com/Co1lin/Co1lin/blob/main/Course%20Projects.md).
 
 <!--
 **Co1lin/Co1lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
