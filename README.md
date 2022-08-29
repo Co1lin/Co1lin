@@ -4,7 +4,7 @@ Hi, I'm Colin. 👋
 
 - 🎓 I'm an undergraduate majoring in [Computer Science and Technology (CST)](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/).
 - 🔭 I love using computer science and data science to solve practical problems.
-- 👨‍💻 I'm currently working on research projects about building systems for emerging application domains.
+- 👨‍💻 I'm currently working on research projects about building systems or providing support for emerging computing systems, such as quantum computing or machine learning.
 - 🌱 I also enjoy learning about things other than CS to enrich myself, like economics, piano (ongoing).
 
 Compared with final exams, I prefer doing [Course Projects](https://github.com/Co1lin/Co1lin/blob/main/Course%20Projects.md).
