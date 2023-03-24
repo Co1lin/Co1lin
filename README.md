@@ -2,12 +2,12 @@
 
 Hi, I'm Colin. 👋
 
-- 🎓 I'm an undergraduate majoring in [Computer Science and Technology (CST)](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/).
+- 🎓 I'm an undergraduate majoring in [Computer Science and Technology (CST)](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/). I will be fortunate to join [Columbia CS](https://www.cs.columbia.edu/) in the 23'Fall.
 - 🔭 I love playing with computers and software.
-- 👨‍💻 I'm currently working on research projects on the intersection of machine learning and systems, including providing system support for machine learning and optimizing computing systems with machine learning.
+- 👨‍💻 I plan to work on research about building efficient and reliable software.
 - 🌱 I enjoy learning about new stuff like economics, piano, skiing, etc., as it brings me maximum marginal happiness.
 
-Compared with final exams, I prefer doing [Course Projects](https://github.com/Co1lin/Co1lin/blob/main/Course%20Projects.md).
+Compared with exams, I prefer doing [Course Projects](https://github.com/Co1lin/Co1lin/blob/main/Course%20Projects.md).
 
 <!--
 **Co1lin/Co1lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
