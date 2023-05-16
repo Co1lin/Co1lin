@@ -4,8 +4,8 @@ Hi, I'm Colin. 👋
 
 - 🎓 I'm an undergraduate majoring in [Computer Science and Technology (CST)](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/). I will be fortunate to join [Columbia CS](https://www.cs.columbia.edu/) in Fall '23.
 - 🔭 I love playing with computers and software.
-- 👨‍💻 I plan to work on Software Engineering research, in terms of efficiency or reliability.
-- 🌱 I enjoy learning about new stuff like economics, piano, skiing, etc., as it brings me maximum marginal happiness.
+- 👨‍💻 I am working on MLSys/Software Engineering research, in terms of efficiency or reliability.
+- 🌱 I am also interested in social science including game theory and economics. I enjoy developing some new skills like piano, skiing, etc., as it brings me maximum marginal happiness.
 
 Compared with exams, I prefer doing [Course Projects](https://github.com/Co1lin/Co1lin/blob/main/Course%20Projects.md).
 
