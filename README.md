@@ -2,14 +2,15 @@
 
 Hi, I'm Colin. 👋
 
-- 🎓 I'm an undergraduate majoring in [Computer Science and Technology (CST)](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/). I will be fortunate to join [Columbia CS](https://www.cs.columbia.edu/) in Fall '23.
-- 🔭 I love playing with computers and software.
-- 👨‍💻 I am working on MLSys/Software Engineering research, in terms of efficiency or reliability.
-- 🌱 I am also interested in social science including game theory and economics. I enjoy developing some new skills like piano, skiing, etc., as it brings me maximum marginal happiness.
+- 🎓 I'm an incoming PhD student at [Columbia CS](https://www.cs.columbia.edu/), exploring the intersection between AI, SE and systems. I'm luckily advised by Professors [Junfeng Yang](http://www.cs.columbia.edu/~junfeng/) and [Baishakhi Ray](https://www.rayb.info/). Previously, I'm an undergraduate at [CST](https://www.cs.tsinghua.edu.cn/csen/)@[THU](https://www.tsinghua.edu.cn/en/).
+- 🔭 I am exploring the intersection between AI, SE and systems, in terms of reliability or efficiency.
+<!-- 👨‍💻 I am working on -->
+- 🌱 I am also interested in social science topics including economics and game theory. I enjoy developing new skills as it brings me maximum marginal happiness.
+
+<!--
 
 Compared with exams, I prefer doing [Course Projects](https://github.com/Co1lin/Co1lin/blob/main/Course%20Projects.md).
 
-<!--
 **Co1lin/Co1lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
