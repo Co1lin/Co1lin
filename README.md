@@ -3,11 +3,12 @@
 Hi, I'm Colin. 👋
 
 - 🎓 I'm an incoming PhD student at [Columbia CS](https://www.cs.columbia.edu/), exploring the intersection between AI, SE and systems. I'm luckily advised by Professors [Junfeng Yang](http://www.cs.columbia.edu/~junfeng/) and [Baishakhi Ray](https://www.rayb.info/). Previously, I'm an undergraduate at [CST](https://www.cs.tsinghua.edu.cn/csen/)@[THU](https://www.tsinghua.edu.cn/en/).
-- 🔭 I am exploring the intersection between AI, SE and systems, in terms of reliability or efficiency.
-<!-- 👨‍💻 I am working on -->
+- 🔭 I'm exploring the intersection between AI, SE and systems, in terms of reliability or efficiency.
 - 🌱 I am also interested in social science topics including economics and game theory. I enjoy developing new skills as it brings me maximum marginal happiness.
 
 <!--
+
+👨‍💻 I'm currently working on
 
 Compared with exams, I prefer doing [Course Projects](https://github.com/Co1lin/Co1lin/blob/main/Course%20Projects.md).
 
