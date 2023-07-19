@@ -3,7 +3,7 @@
 Hi, I'm Colin. 👋
 
 - 🎓 I'm an incoming PhD student at [Columbia CS](https://www.cs.columbia.edu/). I was an undergraduate at [CST](https://www.cs.tsinghua.edu.cn/csen/)@[THU](https://www.tsinghua.edu.cn/en/). 
-- 👓 I'm luckily advised by Professors [Junfeng Yang](http://www.cs.columbia.edu/~junfeng/) and [Baishakhi Ray](https://www.rayb.info/), exploring the intersection between AI, SE and systems.
+- 👓 I'm luckily advised by Professors [Junfeng Yang](http://www.cs.columbia.edu/~junfeng/) and [Baishakhi Ray](https://www.rayb.info/).
 - 🔭 I'm exploring the intersection between AI, SE and systems, in terms of reliability or efficiency.
 - 🌱 I am also interested in social science topics including economics and game theory. I enjoy developing new skills as it brings me maximum marginal happiness.
 
